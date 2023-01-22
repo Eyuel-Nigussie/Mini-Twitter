@@ -3,9 +3,11 @@
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https:![twitter for github](https://user-images.githubusercontent.com/105924760/213937446-3f02f675-55b9-4192-8f17-f192a118da22.png)
+//packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+![twitter for github](https://user-images.githubusercontent.com/105924760/213937450-80fd1055-0508-4403-b177-e03308a44290.png)
 
 ## About Laravel
 
@@ -16,7 +18,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
 - Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
+- [Robust background job processing](https://laravel.com/docs/queues).![twitter for github](https://user-images.githubusercontent.com/105924760/213937442-d356f094-49a4-4c46-b247-3c6548bdee86.png)
+
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
